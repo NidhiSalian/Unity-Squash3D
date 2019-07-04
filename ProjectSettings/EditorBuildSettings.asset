@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: bb8d2855c1793d648a342b09c4b8031c
+  - enabled: 1
+    path: Assets/Scenes/Rules.unity
+    guid: 478b9f242e947074c89ad6df3c278ae0
+  - enabled: 1
+    path: Assets/Scenes/SquashCourt.unity
+    guid: c39eaadea35d6e0448557c447d8e3e1e
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: a71e85b571dc53f4fbd71b51f19c3df3
+  - enabled: 0
+    path: Assets/Scenes/Lesson1.unity
+    guid: 33a664612fc7f574385513cae1f7c669
+  m_configObjects: {}
