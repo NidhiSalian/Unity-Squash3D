@@ -12,4 +12,4 @@ To report bugs - Open an issue, I'll try to get back to you as soon as I can!
 
 ## License:
 
-[GNU Public License](./LICENSE)
+[GNU General Public License](./LICENSE)
