@@ -7,7 +7,7 @@ Simulates a very simple Squash/Tennis style interface, with mouse control to mov
 
 If you have any suggestions, feedback or helpful advice - I'm all ears! Email me at nidhisalian08@gmail.com
 
-To report bugs - Open an issue, I'll try to get back to you as soon as I can!
+To report bugs - Open an issue, I'll try and get back to you as soon as I can!
 
 
 ## License:
