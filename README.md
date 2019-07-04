@@ -7,7 +7,7 @@ To open this project in your Unity Editor, unzip the Assets folder and select th
 
 To build, make sure you've added all the open scenes to the build settings first. Should build and run without any glitches.
 
-Simulates a very simple Squash/Tennis style interface, with mouse control to move the racquet. A random ball shooter spawns balls every 2.5 seconds and you try hitting the ball with the racquet. If it goes back towards the front wall, that's a nice shot and worth 5 points! If you miss 10 balls, you lose.
+Simulates a very simple PC-based Squash/Tennis Practice setup, with mouse control to move the racquet. A random ball shooter spawns balls every 2.5 seconds and you try hitting the ball with the racquet. If it goes back towards the front wall, that's a nice shot and worth 5 points! If you miss 10 balls, you lose.
 
 If you have any suggestions, feedback or helpful advice - I'm all ears! Email me at nidhisalian08@gmail.com
 
