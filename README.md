@@ -3,6 +3,8 @@ My very first 3D game developed using Unity - simulates Squash practice. Have fu
 
 Developed using Unity v2018.3.12
 
+Note : If you're new to Unity, I would definitely recommend spending some time looking at the Tutorials in the [Unity Learn section](https://learn.unity.com/tutorials). You probably have an idea for your game in your head already, but if you're not familiar with the basics you might end up making the development process a lot harder than it has to be. Try out a few of their beginner projects until you're comfortable with the Editor and have a good idea of the functionality you want to include in your own game. 
+
 To open this project in your Unity Editor, unzip the Assets folder and select the root folder to import into unity as a new project. It should create the libraries for you but that take a while. Also, I've noticed some downward compatability issues with Unity before so try and make sure your version matches mine, or is even more recent. I've checked recently with v2019.1.8 and it worked just fine. 
 
 To build, make sure you've added all the open scenes to the build settings first. Should build and run without any glitches.
