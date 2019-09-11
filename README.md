@@ -12,7 +12,7 @@ This game simulates a very simple PC-based Squash/Tennis Practice setup, with mo
 
 ## Installing and Building
 
-To open this project in your Unity Editor, unzip the Assets folder and select the root folder to import into unity as a new project. It should create the libraries for you but that take a while. Also, I've noticed some downward compatability issues with Unity before so try and make sure your version matches mine, or is even more recent. I've checked recently with v2019.1.8 and it worked just fine. 
+To open this project in your Unity Editor, unzip the Assets folder and select the root folder to import into unity as a new project. It should create the libraries for you but that could take a while. Also, I've noticed some downward compatability issues with Unity before so try and make sure your version matches mine, or is even more recent. I've checked recently with v2019.1.8 and it worked just fine. 
 
 To build, make sure you've added all the open scenes to the build settings first. Should build and run without any glitches.
 
