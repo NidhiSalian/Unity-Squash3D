@@ -3,7 +3,7 @@ My very first 3D game developed using Unity - simulates Squash practice. Have fu
 
 Developed using Unity v2018.3.12
 
-Note : If you're new to Unity, I would definitely recommend spending some time looking at the Tutorials in the [Unity Learn section](https://learn.unity.com/tutorials). You probably have an idea for your game in your head already, but if you're not familiar with the basics you might end up making the development process a lot harder than it has to be. Try out a few of their beginner projects until you're comfortable with the Editor and have a good idea of the functionality you want to include in your own game. 
+Note : If you're new to Unity, I would definitely recommend spending some time looking at the Tutorials in the [Unity Learn section](https://learn.unity.com/tutorials). You probably have an idea for your game in your head already, but if you're not familiar with the basics you might end up making the development process a lot harder than it has to be (I'm guilty of this too!). Try out a few of their beginner projects until you're comfortable with the Editor and have a good idea of the functionality you want to include in your own game. 
 
 
 ## About
