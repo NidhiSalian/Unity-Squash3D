@@ -10,6 +10,9 @@ Note : If you're new to Unity, I would definitely recommend spending some time l
 
 This game simulates a very simple PC-based Squash/Tennis Practice setup, with mouse control to move the racquet. A random ball shooter spawns balls every 2.5 seconds and you try hitting the ball with the racquet. If it goes back towards the front wall, that's a nice shot and worth 5 points! If you miss 10 balls, you lose.
 
+Here's a screenshot from when the game was in development and I was testing out different colour themes :
+![Squash Game Screenshot](./screenshot.png)
+
 ## Installing and Building
 
 To open this project in your Unity Editor, unzip the Assets folder and select the root folder to import into unity as a new project. It should create the libraries for you but that could take a while. Also, I've noticed some downward compatability issues with Unity before so try and make sure your version matches mine, or is even more recent. I've checked recently with v2019.1.8 and it worked just fine. 
